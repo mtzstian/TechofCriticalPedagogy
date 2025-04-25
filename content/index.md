@@ -1,6 +1,11 @@
 ---
 title: Introduction
 ---
+>[!info]
+>By: **Sebastián Martínez Sánchez**
+>Under the supervision of Dr. Giuliana Cucinelli
+>Department of Education at Concordia University
+
 Welcome! This is a non-linear Literature Review of the Technologies of Critical Pedagogy. Its purpose is to analyze the applications and relationships of the [[on Technology|technologies]] of [[on Critical Pedagogy|critical pedagogy]]. In conducting this project, my goal is to explore how the development of each idea and each tool informs another, to elucidate the links between the different technologies, both physical and conceptual, that critical pedagogists use to conceptualize, design, and carry out their practice.
 
 I have selected ten texts from three collections of essays in critical pedagogy. These are *The sage handbook of critical pedagogies* (eds. Steinberg and Down) from 2020, *Social Justice Education for Teachers* (eds. Torres and Noguera) from 2008, and _Freire for the classroom: A sourcebook for liberatory teaching_ (ed. Shor) from 1987. I narrowed in on these three collections because they provided me with a good variety of approaches across time and place, all the while remaining clearly within the field of [[on Critical Pedagogy|critical pedagogy]]. The ten articles I have selected specifically because they revealed an interesting use of one or more tools and because their approach cut across the Realms in my model. They are not singled out for being the best, but for affording me an opportunity to test out my model against high-quality, varied, complex understandings of what it means to be a critical educator.
