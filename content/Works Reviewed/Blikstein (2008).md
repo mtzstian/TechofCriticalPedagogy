@@ -1,4 +1,5 @@
 >[!info]- Bibliographic Information
+>
 >**Title:** Travels in Troy with Freire: Technology as an Agent of Emancipation
 >**Author:** Paulo Blikstein
 >**Year:** 2008

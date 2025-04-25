@@ -1,4 +1,5 @@
 >[!info]- Bibliographic Information
+>
 >**Title:** English and Creole: The Dialectics of Choice in a College Writing Program
 >**Author:** Nan Elsasser and Patricia Irvine
 >**Year:** 1987
