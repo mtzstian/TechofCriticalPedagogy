@@ -2,8 +2,8 @@
 >**Title:** Travels in Troy with Freire: Technology as an Agent of Emancipation
 >**Author:** Paulo Blikstein
 >**Year:** 2008
->>[!quote]- Citation
->>Blikstein, P. (2008). Travels in Troy with Freire: Technology as an Agent of Emancipation. In Torres, C. A., & Noguera, P. (Eds.). (2008). *Social Justice Education for Teachers* (pp. 205-235). Leiden, The Netherlands: Brill.
+>**Citation**
+>Blikstein, P. (2008). Travels in Troy with Freire: Technology as an Agent of Emancipation. In Torres, C. A., & Noguera, P. (Eds.). (2008). *Social Justice Education for Teachers* (pp. 205-235). Leiden, The Netherlands: Brill.
 
 >[!question]- Realms of Application
 >[[Theory]], [[Context]], [[Methodology]], [[Lesson]], [[Teaching]], [[Learning]], [[Research]]

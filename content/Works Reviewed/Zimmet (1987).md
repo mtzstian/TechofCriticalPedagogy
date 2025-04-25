@@ -2,8 +2,8 @@
 >**Title:** More Than the Basics: Teaching Critical Reading in High School
 >**Author:** Nancy Zimmet
 >**Year:** 1987
->>[!quote]- Citation
->>Zimmet, N (1987). More Than the Basics: Teaching Critical Reading in High School. In Shor, I. (Ed.). (1987). _Freire for the classroom: A sourcebook for liberatory teaching_ (1st. ed, pp. 122-128). Boynton/Cook.
+>**Citation**
+>Zimmet, N (1987). More Than the Basics: Teaching Critical Reading in High School. In Shor, I. (Ed.). (1987). _Freire for the classroom: A sourcebook for liberatory teaching_ (1st. ed, pp. 122-128). Boynton/Cook.
 
 >[!question]- Realms of Application
 >[[Context]], [[Lesson]], [[Methodology]]

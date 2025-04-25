@@ -2,8 +2,8 @@
 >**Title:** Paulo Freire and the Culture of Justice and Peace: The perspective of Washington vs. the perspective of Angicos
 >**Author:** Moacir Gadotti
 >**Year:** 2008
->>[!quote]- Citation
->>Gadotti, M. (2008). Paulo Freire and the Culture of Justice and Peace: The perspective of Washington vs. the perspective of Angicos. In Torres, C. A., & Noguera, P. (Eds.). (2008). *Social Justice Education for Teachers* (pp. 147-159). Leiden, The Netherlands: Brill.
+>**Citation**
+>Gadotti, M. (2008). Paulo Freire and the Culture of Justice and Peace: The perspective of Washington vs. the perspective of Angicos. In Torres, C. A., & Noguera, P. (Eds.). (2008). *Social Justice Education for Teachers* (pp. 147-159). Leiden, The Netherlands: Brill.
 
 >[!question]- Realms of Application
 > [[Context]], [[Theory]]

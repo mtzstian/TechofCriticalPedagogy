@@ -2,8 +2,8 @@
 >**Title:** The Importance of the Act of Reading
 >**Author:** Paulo Freire (Translated by Loretta Slover)
 >**Year:** 2020. Originally published in 1983
->>[!quote]- Citation
->>Freire, P. (2020). The Importance of the Act of Reading. In Steinberg, S. R., & Down, B. (Eds.). (2020). _The sage handbook of critical pedagogies_ (pp. 3-8). SAGE Publications, Limited.
+>**Citation**
+>Freire, P. (2020). The Importance of the Act of Reading. In Steinberg, S. R., & Down, B. (Eds.). (2020). _The sage handbook of critical pedagogies_ (pp. 3-8). SAGE Publications, Limited.
 >
 
 >[!question]- Realms of Application

@@ -2,8 +2,8 @@
 >**Title:** Indigenous Critical Pedagogy in Underserved Environments in India
 >**Author:** Madhulika Sagaram
 >**Year:** 2020
->>[!quote]- Citation
->>Sagaram, M. (2020) Indigenous Critical Pedagogy in Underserved Environments in India. In Steinberg, S. R., & Down, B. (Eds.). (2020). _The sage handbook of critical pedagogies_ (pp. 236-255). SAGE Publications, Limited.
+>**Citation**
+>Sagaram, M. (2020) Indigenous Critical Pedagogy in Underserved Environments in India. In Steinberg, S. R., & Down, B. (Eds.). (2020). _The sage handbook of critical pedagogies_ (pp. 236-255). SAGE Publications, Limited.
 
 >[!question]- Realms of Application
 >[[Context]], [[Theory]], [[Methodology]], [[Lesson]], [[Learning]]

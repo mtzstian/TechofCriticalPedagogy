@@ -2,8 +2,8 @@
 >**Title:** Paulo Freire and the New Latin American Pedagogical Imaginings
 >**Author:** Adriana Puiggrós (Translated by Peter Lownds)
 >**Year:** 2008
->>[!quote]- Citation
->>Puiggrós, A. (2008). Paulo Freire and the Culture of Justice and Peace: The perspective of Washington vs. the perspective of Angicos. In Torres, C. A., & Noguera, P. (Eds.). (2008). *Social Justice Education for Teachers* (pp. 161-175). Leiden, The Netherlands: Brill.
+>**Citation**
+>Puiggrós, A. (2008). Paulo Freire and the Culture of Justice and Peace: The perspective of Washington vs. the perspective of Angicos. In Torres, C. A., & Noguera, P. (Eds.). (2008). *Social Justice Education for Teachers* (pp. 161-175). Leiden, The Netherlands: Brill.
 
 >[!question]- Realms of Application
 >[[Research]]

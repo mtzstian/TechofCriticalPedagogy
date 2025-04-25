@@ -2,8 +2,8 @@
 >**Title:** English and Creole: The Dialectics of Choice in a College Writing Program
 >**Author:** Nan Elsasser and Patricia Irvine
 >**Year:** 1987
->>[!quote]- Citation
->> Elsasser, N. and Irvine, P. (1987). English and Creole: The Dialectics of Choice in a College Writing Program. in Shor, I. (Ed.). (1987). *Freire for the classroom: A sourcebook for liberatory teaching* (1st. ed, pp. 129-149). Boynton/Cook.
+>**Citation**
+>Elsasser, N. and Irvine, P. (1987). English and Creole: The Dialectics of Choice in a College Writing Program. in Shor, I. (Ed.). (1987). *Freire for the classroom: A sourcebook for liberatory teaching* (1st. ed, pp. 129-149). Boynton/Cook.
 
 >[!question]- Realms of Application
 >[[Context]], [[Lesson]], [[Learning]]

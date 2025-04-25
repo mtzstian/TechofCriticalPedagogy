@@ -2,8 +2,8 @@
 >**Title:** (Dis)Ruptive Glocality Through Teacher Exchange: Realizing Pedagogical Love in the Chilean Context
 >**Author:** Kenneth J. Fasching-Varner, Michaela P. Stone, and Marco Montalbetti Viñuela
 >**Year:** 2020
->>[!quote]- Citation
->>Fasching-Varner, K. J., Stone, M. P., and Montalbetti Viñuela, M. (2020). (Dis)Ruptive Glocality Through Teacher Exchange: Realizing Pedagogical Love in the Chilean Context. In Steinberg, S. R., & Down, B. (Eds.). (2020). _The sage handbook of critical pedagogies_ (pp. 469-479). SAGE Publications, Limited.
+>**Citation**
+>Fasching-Varner, K. J., Stone, M. P., and Montalbetti Viñuela, M. (2020). (Dis)Ruptive Glocality Through Teacher Exchange: Realizing Pedagogical Love in the Chilean Context. In Steinberg, S. R., & Down, B. (Eds.). (2020). _The sage handbook of critical pedagogies_ (pp. 469-479). SAGE Publications, Limited.
 
 >[!question]- Realms of Application
 >[[Context]], [[Theory]], [[Lesson]], [[Learning]]

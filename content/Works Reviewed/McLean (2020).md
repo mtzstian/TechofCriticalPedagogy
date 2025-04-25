@@ -2,8 +2,8 @@
 >**Title:** Critical Pedagogy: Negotiating the Nuances of Implementation
 >**Author:** Jane McLean
 >**Year:** 2020
->>[!quote]- Citation
->>McLean, J. (2020). Critical Pedagogy: Negotiating the Nuances of Implementation. In Steinberg, S. R., & Down, B. (Eds.). (2020). _The sage handbook of critical pedagogies_ (pp. 236-255). SAGE Publications, Limited.
+>**Citation**
+>McLean, J. (2020). Critical Pedagogy: Negotiating the Nuances of Implementation. In Steinberg, S. R., & Down, B. (Eds.). (2020). _The sage handbook of critical pedagogies_ (pp. 236-255). SAGE Publications, Limited.
 
 >[!question]- Realms of Application
 >[[Context]], [[Theory]], [[Methodology]], [[Lesson]], [[Teaching]], [[Learning]]

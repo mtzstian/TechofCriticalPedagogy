@@ -2,8 +2,8 @@
 >**Title:** Critical Mathematics Education: An Application of Paulo Freire's Epistemology
 >**Author:** Marilyn Frankenstein
 >**Year:** 1987
->>[!quote]- Citation
->>Frankenstein, M. (1987). Critical Mathematics Education: An Application of Paulo Freire's Epistemology. In Shor, I. (Ed.). (1987). *Freire for the classroom: A sourcebook for liberatory teaching* (1st. ed, pp. 180-210). Boynton/Cook.
+>**Citation**
+>Frankenstein, M. (1987). Critical Mathematics Education: An Application of Paulo Freire's Epistemology. In Shor, I. (Ed.). (1987). *Freire for the classroom: A sourcebook for liberatory teaching* (1st. ed, pp. 180-210). Boynton/Cook.
 
 >[!question]- Realms of Application
 >[[Theory]], [[Context]], [[Methodology]], [[Lesson]]
