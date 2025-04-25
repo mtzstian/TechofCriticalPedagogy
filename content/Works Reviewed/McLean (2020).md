@@ -1,0 +1,46 @@
+>[!info]- Bibliographic Information
+>**Title:** Critical Pedagogy: Negotiating the Nuances of Implementation
+>**Author:** Jane McLean
+>**Year:** 2020
+>>[!quote]- Citation
+>>McLean, J. (2020). Critical Pedagogy: Negotiating the Nuances of Implementation. In Steinberg, S. R., & Down, B. (Eds.). (2020). _The sage handbook of critical pedagogies_ (pp. 236-255). SAGE Publications, Limited.
+
+>[!question]- Realms of Application
+>[[Context]], [[Theory]], [[Methodology]], [[Lesson]], [[Teaching]], [[Learning]]
+
+>[!info]- Summary
+McLean narrates her own intellectual background and her journey towards critical pedagogy as a teacher before describing her own critical practice through the teaching of a course, Women, Media and Culture. Through a narrative of a specific intervention she encouraged and supported her class in, she reflects on the role of the critical teacher. She then elaborates on her specific practices, considers the role of critical pedagogy beyond the humanities, reflects on the risks of being a critical teacher, and describes the implications of taking on the role of a critical teacher within the classroom, in the school, and in the broader community.
+
+For McLean, the entry point into critical teaching is through her own intellectual background. She describes in detail her influences to arrive at an understanding of Praxis and of teaching as Praxis that will serve to contextualize her narrative of a tipping point when she rethought her practice. These descriptions serve a double function, both as tools of [[Research]] and of [[Theory]]. Applying them as Research, she reconstructs the evolution of her perspective of what education is, and she traces her own influences, considering carefully how her readings in feminist theory have aided in the development of her current understanding. This tracing serves not only to contextualize her perspective, but also to inform how others might arrive at similar conclusions. 
+
+Meanwhile, applying the descriptions as Theory, her final posture explains why her pedagogy is the way it is, why she is interested in teaching critically and in cultivating a critical consciousness in her students. Her answer to the question of *What is the purpose of education?* is thus deeply personal, arrived at on her own and constructed through her own interpretation of not only the texts of critical pedagogy, but also feminist theory and Marxist thought. She posits that these personal roads into practice through Theory evolve organically:
+
+>[!quote]
+>As educators read and become familiar with critical theories, if they are open to the ideologies of social justice, the basic tenets of these theories will begin to inform and enter their pedagogical practices. In so doing, daily experiences in the classroom will change, and these shifts will position educators to reflect on their lived realities, a process that will then reinform the theoretical concepts guiding their practice. This ongoing negotiation and tension between theory and practice is called critical praxis.
+>\- p. 238
+
+She uses a narrative of a critical point when she found her voice, when she stood up and decided to change her practice as a way to discuss questions of [[Methodology]]. She contrasts her growing interest in critical theories with the traditional teacher responses, bringing up accepted heuristics and understandings of Learning such as Bloom's Theory, which she compares to her own readings in feminist theory and on White privilege and racism. She is constructing an understanding, both for herself and for the reader, of how Theory will translate into the classroom, which is when she arrives at critical pedagogy itself. She resists the urge of painting a roadmap, instead advising that critical pedagogy is "not so much implemented as it is enacted by the performing critical educator" (p. 241). But, while she rejects the idea that there is a tool or a system to transform theory into practice, she does recognize that there is a process that she has followed, that can be followed: "It must begin with the teacher being discursively reconstituted by critical discourses and then enacting those discourses in her approach to curriculum and in her pedagogical practices. (...) My efforts were conscious, deliberate, and reflective" (p. 241). For her, the tool of Methodology is the coming to this consciousness itself, the evolution towards criticality that she describes at the beginning of her article. Then, as the teacher comes into critical consciousness themself, they determine what changes must be made based on their own evolving experiences of criticality.
+
+Despite her rejection of Methodology, McLean does provide, late in the article, a list of types of interventions that she has performed throughout her practice, that clearly serve as abstract structures to enact, as she prefers to say, Theory into practice:
+
+>[!quote]-
+>- Extending readings of literary texts beyond formalist theories (New Criticism and Reader Response) and into critical readings informed by feminist, poststructuralist, queer, postcolonial, critical race, and Indigenous theories in Grade 11 and 12 English courses
+>- Modeling for students how to read for gaps by asking who/what is not represented and why
+>- Discussing the nexus of power/knowledge circulating in discursive practices and texts: who gets to speak? Who gets to know? What/whose knowledge is taught? What/whose knowledge is excised?
+>- Reading not just the word, but the world in an effort to recognize privilege, oppression, marginalization, exclusion, erasure, and asking how these positions/conditions intersect with equity and social justice at the individual, societal, institutional, and systemic levels
+>- Examining the way texts are produced by and work to reproduce ideologies and identities
+>- Working at seeing the ‘self’ as a discursively produced text with multiple identities and positions which are contextually constituted
+>- Modeling and practicing with students ways to read resistantly by asking questions such as: who constructed this text? What are the producer’s values and beliefs? How do we know? For whom is the text constructed? To whom is it addressed? What is the text trying to do to the reader/viewer/listener? How does it do it? Should the messages be contested, resisted, accepted, rejected? Why?
+>\- p. 245-246
+
+Through these practices, she consistently translates her Theory commitments into action, both as Lesson design and as Teaching practice, as I will explore further.
+
+Instead of describing the design of her course, McLean chooses to tell of a specific [[Lesson]] she designed and conducted. Though she does not dwell on it for long, she constructs a [[Context]] based model to examine the particular environment of her students to arrive at a particular topic to "disrupt": the local beauty pageant. But for McLean, describing the structure of the Lesson is less important than the processes of [[Teaching]], so she focuses on the ways in which she interacts with the students, directly addressing *How do we as teachers facilitate learning?*: "I spent many an hour after school having serious conversations with these young women, offering advice, trying to help them work through the contradictory feelings they were experiencing" (p. 243), "My goal during these class conversations was to work hard at providing space for all voices to be heard and to encourage those who were reluctant to speak to find alternate ways to make their thoughts known" (p. 243). She also recommends suggestion/question boxes in the classroom as a way to encourage participation.
+
+Then, she focuses on the activities, and activism, of her students. Addressing the [[Learning]] question *How do we learn?*, she describes group discussions and conversations as a central aspect of her students coming to consciousness of their environment, and then dives into the actions of disruption that her class designed, supported, and engaged in. At an after-school meeting for pageant contestants, her and her class disrupted the status-quo by respectfully asking questions that highlighted the problems with the pageant they had discussed in class. She also highlights how, years later, another one of her students entered the pageant despite being gender-fluid and male-designated as an act of resistance. For McLean, it is not just the discussion that allows the students to learn, but also the taking of action, the intervention in and disruption of the status quo. Returning to questions of Theory, she considers what critical pedagogy is about:
+
+>[!quote]
+>Critical pedagogy isn’t about eliminating practices that are racist, sexist, heterosexist, and so on, although it would be wonderful if that were possible. But it is about creating contexts where questions are asked about every-day, taken-for-granted ideas and practices. It is about seeing the gaps and the absences in the classroom, in the textbooks, in the curriculum, and asking why. It is about respecting conflicting ideologies, but learning how to challenge them at the same time.
+>\- p. 245
+
+Then, she reestablishes the connection between her Theory tools and her understanding of Learning through action, claiming that "Critical pedagogy demands action" (p. 245).

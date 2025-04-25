@@ -1,0 +1,15 @@
+I come to this review from the perspective of a student and designer of Technology. I am primarily interested in the tools of education, in how we think about them, produce them, use them and evaluate them. But I am also interested in how our Technology affects in return the way we think, and in how we are informed by our existing artifacts when choosing how to design, how to teach, how to learn, how to act. In this sense, I am deeply inspired by [[Haraway (2006)|Haraway's (2006)]] concept of the cyborg, and I seek to explore the very human act of education as it relates to our also very human technological reality. We are not ourselves without our tools: we shape them and are shaped by them in return; we see the world through them, we interpret our experiences with their help, and we act upon the world by manipulating them.
+
+Because I am so interested in this most intricate relationship we have with our tools, I have adopted a very broad understanding of what Educational Technology is. I am inspired by [[Sandoval (2000)| Sandoval's (2000)]] reading of Foucault, which identifies technology as comprising both physical and mental tools:
+
+> [!quote] 
+> Foucault has admonished us that this cannot be done, however, without identifying and honing what can be thought of as the "inner technologies" that are indispensable for the development of its being in the psychic and material lives of its practitioners. 
+> \- Sandoval, 2000 (p. 68).
+
+Closer to the realm of critical pedagogy, I am also inspired by [[Illich (1973)|Illich's (1973)]] understanding of tools:
+
+>[!quote] 
+> I use this term because it allows me to subsume into one category all rationally designed devices, be they artifacts or rules, codes or operators, and to distinguish all these planned and engineered instrumentalities from other things such as basic food or implements, which in a given culture are not deemed to be subject to rationalization. School curricula or marriage laws are no less purposely shaped social devices than road networks.
+> \- Illich, 1973 (p. 34).
+
+I am mindful of Illich's warning not to abstract individual tools into a broad, faceless *Technology*. For ease of writing, I do occasionally refer to  Technology in general, but never to make any claims as to the form of all individual tools contained therein. Instead, I use technology and tool interchangeably to refer to the specific ideas and artifacts that I analyze in this review. Moreover, I want to express my commitment to the design and use of what Illich calls Convivial tools: "(they) are those which give each person who uses them the greatest opportunity to enrich the environment with the fruits of his or her vision" (p. 34). I analyze the tools of critical pedagogy because I am interested in exploring how tools for Liberation, tools for Conviviality, are created and deployed by critical teachers. It is my hope that, through this analysis, we become better able to evaluate, refine and reinvent our tools; that we become ever better at creating Liberatory Educational Technologies.

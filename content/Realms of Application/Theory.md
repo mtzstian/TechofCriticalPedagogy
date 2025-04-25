@@ -1,0 +1,19 @@
+>[!info] Key Questions
+>- What is education?
+>- Why do we educate?
+
+>[!example]- Examples in Reviewed Articles
+>- [[Blikstein (2008)]]
+>- [[Fasching-Varner et al. (2020)]]
+>- [[Frankenstein (1987)]]
+>- [[Gadotti (2008)]]
+>- [[McLean (2020)]]
+>- [[Sagaram (2020)]]
+
+Technologies of Theory are focused on answering the most basic questions of the educational project. They serve to give meaning to the activity of the teacher, and as such are a very important starting point for many discussions of both education in general and of particular interventions. The first key question, *What is education?*, interrogates in the most abstract terms the purpose of the article, the intervention, the teacher's presence, and every practice and technology being employed. Meanwhile, the second question, *Why do we educate?*, connects Theory to the world, and in particular to tools of [[Context]]. 
+Within critical pedagogy, both of these key questions are unavoidable, since they determine the structure of every educational intervention and give purpose to the movement. [[on Critical Pedagogy|Kincheloe's]] points 1, 2, 3, and 12 justify the mission and effort of critical teachers, and establish general boundaries and goalposts to design and carry out an educational project.
+Technologies of Theory are significant in that they are all abstract. There is no physical component or direct application to Theory, so these ideas always serve as background for the development of more applied technologies.
+
+### Analysis  of reviewed articles
+All of the technologies of Theory constructed in the reviewed articles are notably similar. They also mostly agree with [[on Critical Pedagogy|Kincheloe's]] distillation of the educational project. They claim the purpose of education is liberation and the self-emancipation of the students, and identify the mission of this project as one of social change and the pursuit of a more dignified life. [[Gadotti (2008)]] is the only author in this review that is primarily concerned with this realm of application. He connects his Theory construction with technologies of Context through his idea of the Utopia. Thus, he situates the educational mission for social change, largely shared by every other author, by proposing the creation of specific structures and goalposts to pursue. He, along with [[Blikstein (2008)]], [[Fasching-Varner et al. (2020)]], and [[Frankenstein (1987)]] draw heavily from Paulo Freire's work in their Theory tools, and they all propose their visions of the educational mission by reconstructing his thought process, with emphasis in varying aspects of his thought, from liberation for Blikstein and Frankenstein to Radical Love for Fasching-Varner and colleagues.
+[[McLean (2020)]] and [[Sagaram (2020)]], meanwhile, construct their Theory from more diverse perspectives. McLean's road to answering the key questions is deeply personal, determined by her influences from feminist theory and Marxism. Though her ultimate tools are similar to those derived from Freire, she instead highlights her personal journey towards them, and considers this way of constructing Theory tools a fundamental part of the educational mission. In contrast, Sagaram draws her tools from the social-political-economic context in which she teaches, and states simply that education should be for *life* rather than just for work. Yet, though the concepts of liberation and emancipation are absent from her article, the simplicity of her statement belies a deep engagement with education as a way to emancipate the communities she works with, to bring them closer to economic stability, political empowerment, and social justice.
