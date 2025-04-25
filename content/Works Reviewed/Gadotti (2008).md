@@ -9,7 +9,7 @@
 > [[Context]], [[Theory]]
 
 >[!info]- Summary
-Gadotti describes and analyzes the current (at the time) global sociopolitical mood and situation, with a particular emphasis on the United States, and recontextualizes Freirean ideas about education within this new world.
+>Gadotti describes and analyzes the current (at the time) global sociopolitical mood and situation, with a particular emphasis on the United States, and recontextualizes Freirean ideas about education within this new world.
 
 Through a contrast of a Freirean perspective of the world (Angicos) and the post-9/11 Washington perspective, Gadotti describes the political mood of the era, the turn towards what he calls the fundamentalism of neoliberalism, and its ripple effects throughout the world in the context of North American imperialism. He constructs a new model to understand how [[Context]] affects the Freirean educational mission. Yet he goes one step further, proposing another contextual tool: the Utopia of Freire, to understand how dreaming of a possible future facilitates, encourages, and preordains education. His vision of this Utopia is based on politics of care, on collective adaptation to new challenges, and on education. But the key aspect of this tool is not the particular vision that it presents, but the idea of Utopia as a contextual tool in itself. Gadotti argues that it is not just the present context that influences education, but also the vision that the educator, that the students, have of how the world should be instead. Thus, a liberatory education would flow not only from the particular context in which the students and teacher find themselves, but from the visions they have of how the world could be different.
 

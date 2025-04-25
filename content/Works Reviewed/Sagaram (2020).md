@@ -9,7 +9,7 @@
 >[[Context]], [[Theory]], [[Methodology]], [[Lesson]], [[Learning]]
 
 >[!info]- Summary
-Sagaram describes a comprehensive accelerated education program for children of underserved communities in India. Starting from a description of the community's context, she describes her influences from indigenous pedagogies, learning theories, methodologies for Accelerated Learning Programs (ALPs), and her sociopolitical motivations before expanding on her course in detail.
+>Sagaram describes a comprehensive accelerated education program for children of underserved communities in India. Starting from a description of the community's context, she describes her influences from indigenous pedagogies, learning theories, methodologies for Accelerated Learning Programs (ALPs), and her sociopolitical motivations before expanding on her course in detail.
 
 Sagaram starts her article by portraying a vision of the [[Context]] in which her pedagogy takes place. She analyzes the socioeconomic condition of the community she works with, the historical effect of colonialism and cultural hegemony over the identity of the community and over the health of indigenous Indian pedagogies, and the failings of the public school system in providing an adequate education to her students. This analysis serves to motivate her own program and connect each aspect of her pedagogy to her context. All of her conceptual tools are thus linked not only to their environment, but also to each other through their relation with the socioeconomic, cultural, and political status and history of her community.
 

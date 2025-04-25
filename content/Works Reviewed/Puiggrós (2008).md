@@ -9,7 +9,7 @@
 >[[Research]]
 
 >[!info]- Summary
-Puiggrós traces the origins of Paulo Freire's liberatory pedagogy through his intellectual influences, with particular emphasis on Christianity, left-wing theory, and Latin American thought.
+>Puiggrós traces the origins of Paulo Freire's liberatory pedagogy through his intellectual influences, with particular emphasis on Christianity, left-wing theory, and Latin American thought.
 
 Puiggrós concludes her article by providing a succinct description of Freire's pedagogy:
 
